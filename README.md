@@ -1,3 +1,3 @@
 # JAVA_DEAL_TSP_WEB
 在web页面输入需要遍历的地点，后端会通过算法得出结果并且在前端页面中绘制路线
-+ get_data文件即获取数据的方式默认是高德地图api，如果想要换成百度地图api在dealData文件中全局替换get_data为get_data1就可以
++ getData文件即获取数据的方式默认是高德地图api，如果想要换成百度地图api在dealData文件中全局替换getData为getData_2就可以
